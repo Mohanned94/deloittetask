@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ديلويت</string>
+    <string name="txt_password">كلمة السر</string>
+    <string name="txt_date_of_birth">تاريخ الميلاد</string>
+    <string name="txt_phone_number">رقم الهاتف</string>
+    <string name="txt_national_id">الرقم الوطني</string>
+    <string name="txt_email">البريد الالكتروني</string>
+    <string name="txt_full_name">الاسم الكامل</string>
+    <string name="txt_register">انشاء حساب</string>
+    <string name="txt_login">تسجيل دخول</string>
+    <string name="txt_welcome">أهلا و سهلا</string>
+    <string name="txt_sort">ترتيب</string>
+    <string name="txt_search">بحث</string>
+    <string name="txt_dashboard">المقالات</string>
+    <string name="txt_more">المزيد</string>
+    <string name="txt_settings">الاعدادات</string>
+    <string name="txt_logout">تسجيل خروج</string>
+    <string name="txt_caution">تحذير</string>
+    <string name="txt_ok">حسنا</string>
+    <string name="txt_cancel">الغاء</string>
+    <string name="tx_locale">اللغة</string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+    <string-array name="languages">
+        <item>الانجليزية</item>
+        <item>العربية</item>
+
+    </string-array>
+</resources>
